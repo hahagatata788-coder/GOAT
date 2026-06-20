@@ -44,7 +44,7 @@ module.exports = {
       "খানকি": "https://files.catbox.moe/qhtvsf.mp4",
       "khanki": "https://files.catbox.moe/kje55j.mp4",
 
-      "fahim": "https://files.catbox.moe/e2nd1c.mp3",
+      "boss": "https://files.catbox.moe/e2nd1c.mp3",
       "ফাহিম": "https://files.catbox.moe/91qnco.mp4",
 
       "@fahim ahmed": "https://files.catbox.moe/84fp4p.mp3",
