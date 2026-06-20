@@ -22,7 +22,7 @@ module.exports.onStart = async function({ api, event, args }) {
     }
 
     if (!targetID) {
-        return api.sendMessage("বস যে মেয়েকে চুদ্দে চাউ তার আইডি @ম্যানশন দেউ", threadID, messageID);
+        return api.sendMessage("বস ফাহিম যে মেয়েকে চুদ্দে চাউ তার আইডি @ম্যানশন দেউ", threadID, messageID);
     }
 
     const userInfo = await api.getUserInfo(targetID);
@@ -31,7 +31,7 @@ module.exports.onStart = async function({ api, event, args }) {
     const arraytag = [{ id: targetID, tag: name }];
     const a = (msg) => api.sendMessage(msg, threadID);
 
-    a("বস 𓆩𝐑𝐉 𝐅𝐀𝐑𝐇𝐀𝐍𓆪 এর চুদা লো-🖕🥵");
+    a("বস ফাহিম ‼️😞 এর চুদা লো-🖕🥵");
 
     // Fast Banglish List (1-2 seconds interval)
 setTimeout(() => {a({body: "খাংকির মেয়ে তর মারে চুদি 🥰।" + " " + name, mentions: arraytag})}, 3000);
